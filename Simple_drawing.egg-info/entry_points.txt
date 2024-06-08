@@ -1,0 +1,2 @@
+[console_script]
+Simple_drawing = Simple_drawing:draw_circle_with_symbol

@@ -1,12 +1,3 @@
-# This is my simple Project
-This is just a simple project to show the use of a package
-
-![Result](https://github.com/iris-mygh/PyPI_package_samples/blob/main/logs/img3.JPG)
-
-# Document
-- See more at the [link](https://github.com/iris-mygh/PyPI_package_samples/blob/main/NoteN.md)
-
-```
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -49,5 +40,3 @@ def draw_circle_with_symbol(radius, symbol, resolution=100, filename="circle.png
 
     # Close the figure to free up memory
     plt.close(fig)
-
-```

@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Simple_drawing
+Version: 0.0.1
+Summary: Simple_drawing test package
+Home-page: https://github.com/iris-mygh/Simple_drawing
+Author: LNKN
+Author-email: lnkngoc8@gmail.com
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: numpy==1.22.0; python_version <= "3.10"
+Requires-Dist: numpy>=1.24.3; python_version > "3.10"
+Requires-Dist: matplotlib>=3.7.0
+
+# This is my simple Project
+This is just a simple project to show the use of a package
+
