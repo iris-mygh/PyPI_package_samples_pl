@@ -1,10 +1,10 @@
 # This is my simple Project
 This is just a simple project to show the use of a package
 
-![Result](https://github.com/iris-mygh/PyPI_package_samples/blob/main/logs/img3.JPG)
+![Result](https://github.com/iris-mygh/PyPI_package_samples_pl/blob/main/logs/img3.JPG)
 
 # Document
-- See more at the [link](https://github.com/iris-mygh/PyPI_package_samples/blob/main/NoteN.md)
+- See more at the [link](https://github.com/iris-mygh/PyPI_package_samples_pl/blob/main/NoteN.md)
 
 ```
 import matplotlib.pyplot as plt
