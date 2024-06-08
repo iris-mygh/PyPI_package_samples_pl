@@ -13,7 +13,7 @@ setup(
     name='Simple_drawing',
     version='0.0.1',
     url='https://github.com/path/project',
-    author='LNKN',
+    author='Iris',
     author_email='your_email@gmail.com',
     description='Simple_drawing test package',
     long_description=long_description,
